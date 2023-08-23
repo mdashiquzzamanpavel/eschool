@@ -1,0 +1,17 @@
+
+font-family--
+Rubik 700
+poppins 400, 500, 700
+roboto 400
+
+color--
+green #21B573;
+bg #F0FFF0;
+orange #FD511A;
+black #000000;
+white #FFFFFF;
+
+fonts--
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
